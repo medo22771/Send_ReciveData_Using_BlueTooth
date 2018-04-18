@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BluetTooth</string>
+    <string name="BluetoothOn">Bluetooth On</string>
+    <string name="BluetoothOff">Bluetooth Off</string>
+    <string name="AvilableDevicesList">DevList</string>
+    <string name="BluetoothDiscover">Discover</string>
+</resources>
